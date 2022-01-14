@@ -1,8 +1,8 @@
 # arrayBuffer
 
-ArrayBuffer
+### ArrayBuffer
 
-`ArrayBuffer`对象、`TypedArray`视图和`DataView`试图是 JavaScript 操作二进制数据的一个接口<br />它们都是以数组的语法处理二进制数据，所以统称为二进制数组
+`ArrayBuffer`对象、`TypedArray`视图和`DataView`视图是 JavaScript 操作二进制数据的一个接口。它们都是以数组的语法处理二进制数据，所以统称为二进制数组
 
 这个接口的原始设计目的，与 WebGL 项目有关。<br />所谓 WebGL，就是指浏览器与显卡之间的通信接口，为了满足 JavaScript 与显卡之间大量的、实时的数据交换，它们之间的数据通信必须是二进制的，而不能是传统的文本格式
 
