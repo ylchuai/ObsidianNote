@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b75f391d8d84aa3a",
+        "id": "ff8900713bc087b3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ECMAScript5/Object/属性设置.md",
+            "file": "Python/Flask/Flask 基础.md",
             "mode": "source",
             "source": false
           }
@@ -69,65 +69,40 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ECMAScript5/Object/属性设置.md",
+                "file": "Python/Flask/Flask 基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ff8900713bc087b3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "98be6b520459167a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ECMAScript6/page/class.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cbbd630248beaf61",
+            "id": "e3934056e6fd0bcb",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "ECMAScript5/Object/属性设置.md"
+                "file": "Python/Flask/Flask 基础.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 236
+    "width": 300
   },
-  "active": "b75f391d8d84aa3a",
+  "active": "ff8900713bc087b3",
   "lastOpenFiles": [
+    "Python/Flask/Flask 基础.md",
     "ECMAScript5/Object/属性设置.md",
-    "未命名.md",
-    "ECMAScript6/page/class.md",
-    "ECMAScript6/page/stringFn.md",
     "ECMAScript6/ECMAScript6.md",
-    "ECMAScript6/page/index.md",
-    "generatorSync/generatorSync.md",
-    "ECMAScript6/page/array.md",
-    "ECMAScript6/page/function.md",
-    "ECMAScript6/page/asyncIterator.md"
+    "ECMAScript6/page/class.md",
+    "ECMAScript6/page/array.md"
   ]
 }
